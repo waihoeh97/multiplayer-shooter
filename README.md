@@ -1,4 +1,4 @@
-# multiplayer-shooter
+# Multiplayer Shooter
 
 ## Description
 - This is a multiplayer shooting game with basic features
