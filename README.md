@@ -21,9 +21,9 @@
 - ..\Photon-Windows-Sdk_v4-1-8-0\Photon-cpp\lib
 
 ### Linker Inputs
-Photon-cpp_vc14_debug_windows_md_Win32.lib
-Common-cpp_vc14_debug_windows_md_Win32.lib
-LoadBalancing-cpp_vc14_debug_windows_md_Win32.lib
-glfw3.lib
-opengl32.lib
-glu32.lib
+- Photon-cpp_vc14_debug_windows_md_Win32.lib
+- Common-cpp_vc14_debug_windows_md_Win32.lib
+- LoadBalancing-cpp_vc14_debug_windows_md_Win32.lib
+- glfw3.lib
+- opengl32.lib
+- glu32.lib
